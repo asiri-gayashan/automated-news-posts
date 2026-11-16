@@ -1,0 +1,7 @@
+📱 Italy හි දත්ත ආරක්ෂණ අධිකාරිය (Garante) Meta සමාගමට යුරෝ මිලියන 805ක (ඩොලර් මිලියන 887ක පමණ) දඩයක් නියම කළා.
+
+Android දුරකථනවල Facebook app එකේ "Get suggestions from gallery" විශේෂාංගය, පරිශීලකයින්ගේ නිශ්චිත අවසරයකින් හා ප්‍රමාණවත් දැනුම්දීමකින් තොරව ඡායාරූප, වීඩියෝ සහ metadata වෙත ප්‍රවේශ වූ බව අධිකාරිය සඳහන් කරනවා. මෙම විශේෂාංගය default ලෙස සක්‍රියව තිබූ අතර, එය අක්‍රිය කර වෙනම අවසරය ලබා ගැනීමට Meta සමාගමට දින 60ක කාලයක් ලබා දී තිබෙනවා. Meta සමාගමට මෙම තීරණයට එරෙහිව අභියාචනා කිරීමේ අයිතිය ඇති අතර, සමාගම තවමත් ප්‍රතිචාර දක්වා නැහැ.
+
+#Meta #Facebook #Privacy #Android #TechNews #SinhalaNews #AsiriGayashan
+
+Sources: Associated Press (ABC News), Al Jazeera, Bloomberg
