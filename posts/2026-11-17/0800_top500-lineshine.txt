@@ -1,0 +1,5 @@
+ලොව වේගවත්ම සුපිරි පරිගණක ලැයිස්තුව වන TOP500 හි 68 වැනි සංස්කරණය නොවැම්බර් 16 වැනිදා CHICAGO නුවර පැවැත්වෙන SC26 සමුළුවේදී නිකුත් කෙරිණි. CHINA හි SHENZHEN ජාතික සුපිරි පරිගණක මධ්‍යස්ථානයේ ඇති LINESHINE පරිගණකය EXAFLOPS 2.198 ක වේගයෙන් පළමු ස්ථානය රඳවා ගත් අතර, ඇමරිකාවේ EL CAPITAN පරිගණකය EXAFLOPS 1.809 ක වේගයෙන් දෙවැනි ස්ථානයට පත්විය. මෙවර ලැයිස්තුවේ ඉහළම ස්ථාන 10 පසුගිය ජූනි ලැයිස්තුවට සාපේක්ෂව වෙනස් නොවීය.
+
+#TOP500 #Supercomputer #LineShine #TechNews #SC26 #SinhalaNews #AsiriGayashan
+
+Sources: TOP500.org, Network World, Tom's Hardware
